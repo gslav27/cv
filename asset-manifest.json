@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.1026dfff.chunk.js",
+    "main.js.map": "/static/js/main.1026dfff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d525aeb7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d525aeb7.js.map",
+    "static/js/2.23a6cfad.chunk.js": "/static/js/2.23a6cfad.chunk.js",
+    "static/js/2.23a6cfad.chunk.js.map": "/static/js/2.23a6cfad.chunk.js.map",
+    "static/js/3.57233cc2.chunk.js": "/static/js/3.57233cc2.chunk.js",
+    "static/js/3.57233cc2.chunk.js.map": "/static/js/3.57233cc2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.23a6cfad.chunk.js.LICENSE.txt": "/static/js/2.23a6cfad.chunk.js.LICENSE.txt",
+    "static/media/call.6039ab4c.svg": "/static/media/call.6039ab4c.svg",
+    "static/media/code.d47351b6.svg": "/static/media/code.d47351b6.svg",
+    "static/media/email.244854d1.svg": "/static/media/email.244854d1.svg",
+    "static/media/gh.f9fe6262.svg": "/static/media/gh.f9fe6262.svg",
+    "static/media/linkedin.f243debf.svg": "/static/media/linkedin.f243debf.svg",
+    "static/media/modeLight.2948305f.svg": "/static/media/modeLight.2948305f.svg",
+    "static/media/modeNight.a3524fbc.svg": "/static/media/modeNight.a3524fbc.svg",
+    "static/media/telegram.a75a0e9c.svg": "/static/media/telegram.a75a0e9c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d525aeb7.js",
+    "static/js/2.23a6cfad.chunk.js",
+    "static/js/main.1026dfff.chunk.js"
+  ]
+}
