@@ -47,7 +47,7 @@ const SourceCode: React.FC = () => (
   <StyledCard palette="contrast" column>
     <IconButton
       as="a"
-      href={`https://${CONTACTS.GH}/cv/tree/master/src`}
+      href={`https://${CONTACTS.GH}/cv/tree/master/srcCode`}
       target="_blank"
       title="source code"
     >
